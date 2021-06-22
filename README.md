@@ -1,2 +1,2 @@
 - Hi, I’m Abrar. 
-- I am interested in front end development.
+- I am in front end development.
